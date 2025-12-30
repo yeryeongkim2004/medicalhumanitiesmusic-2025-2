@@ -1,8 +1,8 @@
 ---
 Title: Joker
-year: 2019
-genre: Film
-disease: personality disorder
+Year: 2019
+Genre: Film
+Disease: personality disorder
 ICD: F60.2
 ---
 
