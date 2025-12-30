@@ -26,7 +26,21 @@ Schizophrenia and autism spectrum disorder (ASD) have distinct clinical characte
 
 Meanwhile, the drama Extraordinary Attorney Woo focuses on the daily life and growth of its protagonist on the autism spectrum, encouraging greater social understanding of neurodiversity. The protagonist, Woo Young-woo, possesses exceptional memory and logical reasoning skills but struggles with interpreting social norms and nonverbal expressions, thereby realistically depicting the prejudice and structural barriers faced by autistic individuals. Furthermore, her gradual expansion of relationships and communication in her own way shows that autism spectrum disorder is not a deficit but a unique form of cognitive diversity, highlighting the importance of a society that embraces such diversity.
 
+
+
 <img src="./jang-hyojin.png" alt="abstract image of Schizophrenia" style="width:25%;" />
+
+# The Relationship between the HYQ Portfolio and the DB 
+
+In the HYQ portfolio, I centered my inquiry on the question of how music can ethically represent another person’s illness, disability, and suffering. I focused on the idea that suffering can never be transmitted “as it is” through music, but is inevitably mediated through aesthetic and narrative transformation. From this perspective, I argued that the representation of suffering is not merely an artistic issue but one that entails social and ethical responsibility. Drawing on the framework of medical humanities, I established key criteria for ethical representation, including the avoidance of aestheticizing or consuming suffering, respect for the dignity of the subject, and the ethical positioning of the listener.
+
+The DB expands this problem awareness through a concrete case analysis. The inserted song “All Love Can Be” from the film A Beautiful Mind does not directly depict the clinical symptoms of schizophrenia; rather, it musically articulates the inner narrative and emotional trajectory of a human being living with the illness. This serves as a practical response to the central question posed in the HYQ portfolio, demonstrating that an ethical mode of representation may lie not in reproducing suffering itself, but in foregrounding the experience of a subject who endures and gives meaning to that suffering.
+
+By applying the concepts of narrative medicine and Auditory Anamnesis, the DB illustrates how music can record illness not as a pathological object (disease), but as a lived story (illness). This process functions as a test of the ethical criteria established in the HYQ portfolio—respect for the subject and the listener’s responsibility—within an actual textual analysis. Through this musical narrative, the listener is positioned not as a passive consumer, but as an ethical witness who imaginatively and affectively engages with another person’s suffering.
+
+Furthermore, the DB’s parallel discussion of schizophrenia and autism spectrum disorder reflects an effort to move beyond a reductive understanding of illness and disability as mere deficits, instead adopting the perspective of neurodiversity. This approach demonstrates that the concept of ethical representation developed in the HYQ portfolio extends beyond the accurate depiction of specific diagnoses, toward a broader reconsideration of how society understands and responds to difference and suffering. The example of Extraordinary Attorney Woo reinforces this point by showing that ethical representation ultimately gestures toward a social vision grounded in inclusion and respect for cognitive diversity.
+
+In sum, the HYQ portfolio functions as the theoretical foundation that formulates the central questions and ethical standards of representation, while the DB concretizes and validates these ideas through detailed musical and narrative analysis. Rather than existing as separate assignments, the two components form a continuous and integrated inquiry into how music and narrative can engage with human suffering in ethically responsible and socially meaningful ways.
 
 # Music I would like to be played at my funeral: River Flows in You
 
@@ -52,6 +66,19 @@ Week 12에서 배운 **Auditory Anamnesis(청각적 병력청취)**의 개념을
 
 한편, 드라마 [이상한 변호사 우영우](cheong-yunho.md)는 자폐 스펙트럼을 가진 주인공의 일상과 성장을 중심으로 신경다양성에 대한 사회적 이해를 촉구하는 작품이다. 주인공 우영우는 뛰어난 기억력과 논리적 사고를 지니지만 사회적 암묵지와 비언어적 표현의 해석에는 어려움을 보이며, 이를 통해 자폐인이 마주하는 편견과 구조적 제약이 현실적으로 그려진다. 더불어 그가 자신의 방식으로 주변과 소통하며 관계를 확장해 나가는 모습은 자폐 스펙트럼이 결함이 아닌 고유한 인지적 다양성임을 보여주며, 다양성을 포용하는 사회의 중요성을 일깨운다.
 
+# HYQ 포트폴리오와 DB와의 연관성
+
+HYQ 포트폴리오에서 나는 음악이 타인의 질병·장애·고통을 어떻게 윤리적으로 재현할 수 있는가라는 질문을 중심으로 탐구를 전개했다. 음악 속에서 고통은 결코 있는 그대로 전달되지 않으며, 필연적으로 미학적·서사적 변형을 거친다는 점에 주목하면서, 이러한 재현 과정이 개인의 표현을 넘어 사회적·윤리적 책임을 수반한다는 문제의식을 제기했다. 특히 의료인문학적 관점에서 고통의 미화나 소비를 경계하고, 당사자의 존엄성과 청자의 책임적 위치를 윤리적 재현의 핵심 기준으로 설정했다.
+
+이번 DB에서는 이러한 HYQ 포트폴리오의 문제의식을 구체적인 사례 분석으로 확장하였다. 영화 A Beautiful Mind의 삽입곡 **〈All Love Can Be〉**는 조현병의 증상을 직접적으로 묘사하기보다, 질병을 겪는 한 인간의 내적 서사와 감정의 회복 과정을 음악적으로 형상화한다. 이는 HYQ 포트폴리오에서 제기한 질문에 대한 하나의 실천적 응답으로, 고통 그 자체를 재현하기보다 고통을 견디고 의미화하는 주체의 경험을 중심에 놓는 방식이 윤리적 재현이 될 수 있음을 보여준다.
+
+DB에서 적용한 서사의학(narrative medicine)과 Auditory Anamnesis의 개념은 음악이 질병을 병리적 대상(disease)이 아니라 **삶의 이야기(illness)**로 기록할 수 있음을 드러낸다. 이는 HYQ 포트폴리오에서 설정한 윤리적 재현 기준—당사자 존중, 청자의 책임적 청취—이 실제 텍스트 분석 속에서 어떻게 작동하는지를 검증하는 과정이기도 하다. 청자는 이 음악을 통해 단순한 감상자가 아니라, 타인의 고통을 감각적으로 이해하고 공명하는 **윤리적 증인(witness)**의 위치에 놓이게 된다.
+
+또한 DB에서 조현병과 자폐 스펙트럼 장애를 함께 다룬 서술은, 질병과 장애를 단일한 결핍의 범주로 환원하지 않고 **신경다양성(neurodiversity)**의 관점에서 이해하려는 시도다. 이는 HYQ 포트폴리오에서 논의한 ‘윤리적 재현’이 특정 질환의 정확한 묘사에 머무르지 않고, 사회가 고통과 차이를 어떻게 인식하고 수용할 것인가라는 더 넓은 가치의 문제로 확장됨을 보여준다. 이상한 변호사 우영우의 사례는 이러한 윤리적 재현이 궁극적으로 다양성을 포용하는 사회적 지향점을 향하고 있음을 분명히 한다.
+
+결과적으로 HYQ 포트폴리오는 윤리적 재현에 대한 이론적 질문과 기준을 제시하는 출발점이 되었고, DB는 이를 실제 음악·서사 분석에 적용함으로써 그 타당성과 확장 가능성을 구체화했다. 두 작업은 서로 분리된 과제가 아니라, 인간의 고통을 다루는 음악과 서사가 어떤 윤리적 책임과 사회적 의미를 가질 수 있는지를 단계적으로 탐구하는 하나의 연속적인 과정으로 연결된다.
+
 # 내 장례식에서 틀었으면 좋겠는 음악 : River flows in you
 
 River Flows in You는 내가 떠난 뒤에도 사람들이 나를 떠올릴 때 너무 무겁거나 비통한 분위기보다는, 조용하고 따뜻한 감정을 느꼈으면 하는 내 바람과 가장 잘 맞는 곡이다. 이 음악의 부드러운 피아노 선율은 마치 내 삶이 강물처럼 고요하게 흘러왔고, 또 자연스럽게 다음 단계로 이어진다는 메시지를 전하는 듯하다. 과하게 슬픈 분위기 대신 잔잔한 위로를 건네는 이 곡은, 내가 사랑했던 사람들이 장례식 자리에서 편안한 마음으로 나를 기억할 수 있도록 도와줄 것 같다. 특히 가사가 없는 연주곡이기 때문에, 각자 나와 함께한 순간들을 조용히 떠올리며 자신의 방식으로 감정을 정리할 수 있는 여유도 준다. 내가 이 노래를 선택한 이유는 결국 ‘나에 대한 마지막 기억이 평온했으면 좋겠다’는 마음에서 비롯되며, 이 곡의 따뜻한 울림이 그 바람을 가장 아름답게 담아낼 수 있다고 느껴지기 때문이다.
+

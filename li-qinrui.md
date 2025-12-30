@@ -24,8 +24,11 @@ Based on the novel by Robert Louis Stevenson, the musical tells the story of sci
 
 4.Vocal techniques, including dynamic extremes and abrupt timbral shifts, audibly distinguish the two personalities.
 
-In analyzing “The Confrontation” from Jekyll & Hyde, it becomes clear that music functions not only as a narrative device but also as a medium of psychological expression. To deepen our understanding of how composers depict mental imbalance through musical form, it is useful to compare this piece with another work employing a similar technique—the score of the film [Joker](noh-hyunwoo.md) (2019).Belong to different musical realms—the former being a dramatic Broadway musical and the latter a minimalist, atmospheric score—they share a striking similarity in their musical portrayal of psychological breakdown and duality.
+In analyzing “The Confrontation” from Jekyll & Hyde, it becomes clear that music functions not only as a narrative device but also as a medium of psychological expression. To deepen our understanding of how composers depict mental imbalance through musical form, it is useful to compare this piece with another work employing a similar technique—the score of the film [Joker](noh-hyunwoo.md) (2019).Although the two works belong to different musical realms—Jekyll & Hyde as a dramatic Broadway musical and Joker as a minimalist, atmospheric film score—they share a striking similarity in their portrayal of psychological breakdown and duality.
 
+In Joker, the recurring use of a low, heavily distorted solo cello, slow harmonic movement, and repetitive motifs mirrors the protagonist’s descent into isolation and instability. Unlike the explosive theatricality of “The Confrontation,” Joker relies on gradual accumulation and oppressive stillness. Yet both works use musical imbalance, timbral darkness, and tonal ambiguity to externalize an inner psychological fracture.
+
+Ultimately, both The Confrontation and the Joker score demonstrate how music can give form to invisible mental states. Through contrasting musical languages, they reveal that psychological conflict and identity fragmentation are not only narrative themes, but sonic experiences shaped by harmony, rhythm, texture, and timbre.
 <img src="./li-qinrui.png" alt="Abstract image of DID" style="width:35%;" />
 
 # 지킬앤하이드
@@ -46,7 +49,11 @@ In analyzing “The Confrontation” from Jekyll & Hyde, it becomes clear that m
 
 4.보컬의 극단적 다이내믹 변화와 음색 전환으로 두 인격의 대립을 청각적으로 구체화함.
 
-뮤지컬 《지킬 앤 하이드》의 〈The Confrontation〉을 분석해 보면, 음악이 단순한 서사적 장치가 아니라 인물의 심리를 표현하는 핵심 매체로 작용한다는 점을 알 수 있습니다. 이러한 “음악을 통한 심리적 불안정의 표현”을 더 깊이 이해하기 위해, 유사한 기법을 사용한 다른 작품인 영화 [조커](noh-hyunwoo.md)  (2019)의 음악을 함께 비교해 볼 필요가 있습니다.음악은 스타일상 매우 다르지만—전자는 극적인 브로드웨이 넘버이고, 후자는 미니멀하고 음향적인 영화음악임에도 불구하고—심리적 붕괴와 이중성의 음악적 표현이라는 주제에서는 놀라울 만큼 유사한 접근을 보입니다.
+뮤지컬 《지킬 앤 하이드》의 〈The Confrontation〉을 분석해 보면, 음악이 단순한 서사적 장치가 아니라 인물의 심리를 표현하는 핵심 매체로 작용한다는 점을 알 수 있습니다. 이러한 “음악을 통한 심리적 불안정의 표현”을 더 깊이 이해하기 위해, 유사한 기법을 사용한 다른 작품인 영화 [조커](noh-hyunwoo.md)  (2019)의 음악을 함께 비교해 볼 필요가 있습니다.두 작품은 서로 다른 음악적 영역에 속해 있다. Jekyll & Hyde는 극적인 브로드웨이 뮤지컬인 반면, Joker는 미니멀하고 분위기 중심의 영화 음악이다. 그럼에도 불구하고, 두 작품은 심리적 붕괴와 이중성을 묘사하는 방식에서 놀라운 유사성을 공유한다.
+
+Joker에서는 왜곡된 저음의 독주 첼로, 느린 화성 진행, 그리고 반복되는 동기의 지속적인 사용이 주인공이 고립과 정신적 불안정으로 빠져드는 과정을 반영한다. 〈The Confrontation〉의 폭발적인 연극성과 달리, Joker는 점진적인 축적과 억압된 정적을 통해 긴장감을 형성한다. 그러나 두 작품 모두 음악적 불균형, 어두운 음색, 그리고 조성의 모호함을 활용하여 내면의 심리적 균열을 외화한다.
+
+궁극적으로 〈The Confrontation〉과 Joker의 음악은 보이지 않는 정신 상태에 음악이 어떻게 형태를 부여할 수 있는지를 보여준다. 상반된 음악적 언어를 사용함에도 불구하고, 두 작품은 심리적 갈등과 정체성의 분열이 단순한 서사적 주제가 아니라, 화성·리듬·질감·음색에 의해 형성되는 청각적 경험임을 드러낸다.
 
 # 장례식에서 연주되길 원하는 음악
 

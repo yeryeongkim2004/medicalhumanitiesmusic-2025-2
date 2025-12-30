@@ -55,3 +55,25 @@ Reason for Selection: I would like Arvo Pärt's Spiegel im Spiegel to be played 
 음악: [아르보 패르트 - 거울 속의 거울 (Spiegel im Spiegel, 1978)](https://www.youtube.com/watch?v=TJ6Mzvh3XCc)
 
 선곡 이유: 저는 제 장례식에서 아르보 패르트의 <Spiegel im Spiegel(거울 속의 거울)>이 연주되기를 바랍니다. '거울 속의 거울'이라는 제목이 암시하듯, 이 곡은 가사나 극적인 절정 없이 단순하게 순환하는 3화음을 통해 무한히 거듭되는 반영(reflection)의 느낌을 자아냅니다. 저의 마지막 순간이 격정적인 슬픔이나 떠들썩한 작별 인사가 아닌, 잔잔한 물결처럼 평화롭게 흘러가기를 소망합니다. 차분하고 고르게 이어지는 선율은 '소리의 안식처'가 되어, 남겨진 이들에게 슬픔보다는 깊은 위로와 명상적인 침묵의 시간을 선사할 것입니다. 이는 거울 속의 끝없는 비침처럼, 저의 떠남 또한 자연스럽고 연속적인 과정이기를 바라는 마음을 담고 있습니다.
+
+---
+
+# HYQ Future Question: Expanding the Horizon of Medical Humanities
+
+**"How can a medical humanities database in the AI era ethically archive the musical experiences (sign language, vibration) of the Deaf beyond 'audism,' establishing a 'relational narrative' where the Deaf are the subjects of interpretation? Furthermore, how can Haptic interfaces and Multimodal AI serve as specific media in this process?"**
+
+### Connection between Project and Future Question
+In the analysis of *Iron Man 3*, I explored how technology (the suit) interacts with the disabled body and how **"Disability Aesthetics" (Week 11)** reframes brokenness as beauty. However, reflecting on the concept of **"Techne" (Week 14)** which synthesizes art and technology, I realized that the current database analysis—relying heavily on "Auditory Anamnesis" (Week 12)—remains within the bounds of "Audism" .
+
+Just as Tony Stark finds a new identity through technology, my Future Question proposes using **Haptic interfaces** and **Multimodal AI** not to "fix" the Deaf experience, but to translate it into a **"Relational Narrative"** . This aims to shift the database from a collection of symptoms to a space of shared sensory experiences , ensuring that the musicality of vibration and sign language is ethically archived and respected.
+
+---
+
+# HYQ Future Question: 의료인문학의 지평 확장
+
+**"AI 시대의 의료인문학 데이터베이스는 '청각 중심주의'를 넘어, 농인의 음악적 경험(수어, 진동)을 농인 당사자가 해석의 주체가 되는 '관계적(Relational) 서사'로 어떻게 윤리적으로 아카이빙할 수 있는가? 나아가 햅틱(Haptic) 인터페이스와 멀티모달 AI 기술은 이 과정에서 어떤 구체적 매개체 역할을 할 수 있는가?"**
+
+### 프로젝트와 Future Question의 연결
+앞선 <아이언맨 3>의 분석에서 저는 기술(슈트)이 장애 신체와 어떻게 상호작용하는지, 그리고 **'장애 미학(11주차)'** 이 결핍을 어떻게 아름다움으로 승화하는지 고찰했습니다. 그러나 **'테크네(14주차)'** 의 개념을 되새겨볼 때, 현재의 DB 분석은 여전히 소리를 듣는 '청각적 병력청취(12주차)'에 머물러 있어 **'청능주의(Audism)'** 를 재생산할 위험이 있다는 한계를 발견했습니다 .
+
+토니 스타크가 기술을 통해 새로운 정체성을 찾았듯, 저의 Future Question은 **햅틱(Haptic) 인터페이스**와 **멀티모달 AI** 기술을 제안합니다 . 이는 농인의 경험을 청인의 기준으로 '교정'하는 것이 아니라, 진동과 수어라는 고유한 음악적 경험을 **'관계적 서사'** 로 번역하기 위함입니다 . 이를 통해 우리 데이터베이스는 단순한 증상의 기록을 넘어, 비장애인과 농인이 감각적으로 연결되는 공감의 장으로 확장될 수 있을 것입니다.

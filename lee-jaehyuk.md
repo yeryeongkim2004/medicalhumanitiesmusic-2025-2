@@ -19,6 +19,8 @@ The music I would want to be played at my funeral is Louis Armstrong’s ['What 
 
 In Week 3, the idea that “medicine treats the disease, but medical humanities attends to the person who suffers” left a strong impression on me. That is why, when analyzing The Theory of Everything for my DB file, I tried to understand Stephen Hawking from a medical-humanities perspective—not by focusing solely on his ALS, but by paying attention to the story he shared with Jane Wilde. In Week 11, we learned about the relationship between diminishing bodily function and musical expression. This helped me understand how the wordless instrumental piece in the film symbolizes Hawking’s gradual loss of speech, allowing music to express what spoken language no longer can.
 
+# HYQ Portfolio
+My Future Question is: “How can AI-generated music that depicts illness or disability overcome its lack of lived experience, and by what standards should we understand and evaluate it?”. I originally viewed AI’s inability to feel pain as a fundamental limitation. But through class discussions, I realized that no one can fully experience another person’s suffering, meaning this limitation is not exclusive to AI. This shifted my curiosity toward how AI-created music can still produce meaning despite that absence. In my DB analysis of The Theory of Everything, the instrumental music symbolizes Hawking’s gradual loss of speech and expresses a sense of transcendence through its rising melodic line. This helped me understand that the expression of pain in music does not require firsthand experience; musical structure itself can reinterpret and convey suffering.
 
 # 사랑에 대한 모든 것
 
@@ -30,3 +32,6 @@ In Week 3, the idea that “medicine treats the disease, but medical humanities 
 나의 장례식에서 연주되었으면 하는 음악은 Louis Armstrong의 ['What A Wonderful World'](https://www.youtube.com/watch?v=rBrd_3VMC3c&list=RDrBrd_3VMC3c&start_radio=1)이다. 장례식에 오는 사람들이 슬픔에 잠긴 분위기보다는 약간은 편안한 마음으로 나를 떠올릴 수 있기를 바라기 때문이다. 이 곡은 느린 템포의 재즈 사운드를 가지고 있어 장례식의 정서에 크게 어긋나지 않는다. 특히, 이 곡은 죽음 앞에서도 세상이 여전히 멋진 곳임을 상기시켜 주는 가사로 구성되어 있다. 14주차 수업에서 “장례식 음악은 누구를 위한 것인가? 떠나는 자인가, 남는 자인가?"라는 질문이 기억에 남았는데, 이 노래가 남은 사람들을 위한 음악이 될 수 있다고 생각한다.
 
 3주차 수업에서 "의학은 ‘질병’을 치료하지만, 의료인문학은 그 병을 앓는 ‘사람’에 주목"한다는 말이 인상적이었다. 그렇기 때문에 영화 '사랑에 대한 모든 것'을 조사할 때, 의료인문학적인 관점에서 스티븐 호킹을 바라보기 위해 노력했다. 스티븐 호킹의 ALS 질환을 설명하기 보단, 그와 그의 아내의 이야기에 초점을 맞췄다. 11주차 수업을 통해 신체 기능이 제한되어가는 사람들과 음악 사이의 관계를 학습했다. 이를 통해 영화에 삽입된 가사가 없는 기악곡이 호킹의 언어 상실을 상징하는 방식을 이해할 수 있었다.
+
+# HYQ Portfolio
+나의 Future Question은 “AI가 생성한 질병·장애 묘사 음악은 ‘경험 부재’라는 본질적 한계를 어떻게 넘어설 수 있으며, 우리는 이러한 음악을 어떤 기준으로 이해하고 평가해야 하는가?”이다. AI가 질병·장애의 경험을 묘사하는 음악을 만들 때 고통을 직접 경험하지 못한 채 만든다는 점이 본질적 한계처럼 느껴졌다. 하지만, 타인의 고통은 누구도 완전히 경험할 수 없다는 내용을 통해, 경험이 부재한 음악이 AI만의 문제가 아님을 깨닫게 되었다. AI가 고통을 느끼지 못함에도 불구하고 만든 음악이 어떤 방식으로 의미를 생성하는지 궁금증이 생기게 되었다. 이 글에서 분석한 "The Theory of Everything"에 사용된 음악은 가사가 없는 기악곡으로 ALS로 인해 말을 잃어가는 호킹의 상태를 상징하고, 점진적으로 상승하는 선율을 통해 신체적 한계를 넘어서는 모습을 표현하고 있다. 음악을 통한 고통의 표현이 반드시 그것을 경험해야만 나오는 것이 아니라, 음악적 구조와 서사를 통해 재해석되는 방식으로도 전달될 수 있음을 이해했다.

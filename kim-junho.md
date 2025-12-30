@@ -14,9 +14,22 @@ I would like to share essays that deal with the same drama or disability type. I
 
 [In Most impressive scene in the drama](https://www.youtube.com/watch?v=LPZDKf29IRs&list=RDLPZDKf29IRs&start_radio=1), we could see how WooYoung-woo's 'imagination' is closely related to her 'love'.
 
-I will now connect this work to the themes discussed in class. First, Imagination reflects the concept of ‘disability aesthetics’ that we covered in Week 1. Thoughts shaped by schizophrenia are often met with the prejudice that they are ‘strange.’ However, Imagination portrays such thoughts as endearing forms of imagination, showing that the differences that arise from disability can themselves be beautiful. Drawing on the content from Week 10, Imagination also suggests that Woo Young-woo’s disability can be interpreted relationally through the emphasis on ‘love.’ In other words, through the relationships of love she forms, Woo Young-woo is able to break free from the binary of ‘normal’ versus ‘abnormal.’At the same time, the piece can be read critically. As we discussed in Week 2, the depiction of Woo Young-woo’s ‘imagination’ is excessively romanticized. The real pain and sorrow she experiences in the series are often overshadowed by overly romantic imagery—such as the recurring motif of whales appearing in her mind.
+I will now connect this work to the themes discussed in class. First, Imagination reflects the concept of ‘disability aesthetics’ that we covered in Week 1. Thoughts shaped by autism spectrum disorder are often met with the prejudice that they are ‘strange.’ However, Imagination portrays such thoughts as endearing forms of imagination, showing that the differences that arise from disability can themselves be beautiful. Drawing on the content from Week 10, Imagination also suggests that Woo Young-woo’s disability can be interpreted relationally through the emphasis on ‘love.’ In other words, through the relationships of love she forms, Woo Young-woo is able to break free from the binary of ‘normal’ versus ‘abnormal.’At the same time, the piece can be read critically. As we discussed in Week 2, the depiction of Woo Young-woo’s ‘imagination’ is excessively romanticized. The real pain and sorrow she experiences in the series are often overshadowed by overly romantic imagery—such as the recurring motif of whales appearing in her mind.
+
+# Music that will be played in my funeral
 
 When I die, I hope [John Lennon’s Imagine](https://www.youtube.com/watch?v=YkgkThdzX-8&list=RDYkgkThdzX-8&start_radio=1) is played at my funeral. People spend their whole lives enduring the weight of ‘reality,’ and because of that, ‘imagination’ often gets dismissed as mere delusion. But unlike delusion, imagination has the power to pull reality forward — to push a difficult life in a better direction. If I were to die, I would want people to hear, paradoxically, the life-giving force that imagination holds
+
+# Furthermore
+
+My portfolio question is as follows: “Can music truly be independent from social conventions? If the notions of beauty and ugliness in music are influenced by power, how can music dismantle the hierarchy between the ‘normal’ and the ‘abnormal’ within society?”
+This can be connected to the previously mentioned song “Imagination (상상)”. We commonly believe that Imagination dismantles social conventions, but a critical perspective shows that this is not entirely the case. The song’s portrayal of the “beauty of disability” is expressed through “high-pitched melodies played by string instruments,” which can be seen as somewhat standardized. In other words, it may be interpreted as a universalizing process: inserting the attribute of “Woo Young-woo’s disability” into an already existing concept of “beauty.”
+
+Woo Young-woo’s disability undoubtedly involves anxiety and pain. However, the way all these emotions are condensed into the “beauty of high melodies” makes it difficult to see this representation as a true reflection or expression of her disability. Therefore, we may conclude that <Imagination> is not fully independent from the dominant, conventional notions of beauty and ugliness that are shaped by power.
+
+At the same time, however, <Imagination> also reveals a new possibility. We often understand “disability and non-disability” through the dichotomy of “abnormal vs. normal,” and further, “ugly vs. beautiful,” or “inferior vs. superior.” As noted earlier, although <Imagination> does not completely escape these conventional binary frameworks, it nevertheless uses them critically. By depicting “disability” not as “abnormal/ugly/inferior,” but as “beautiful,” the song creates a combination that feels somewhat unfamiliar to the listener. It is precisely from this sense of unfamiliarity that the hierarchy between “normal” and “abnormal” may be dismantled.
+
+Although <Imagination> makes use of existing hierarchical structures, it simultaneously subverts them, positioning disability within the realm of “beauty.” This form of beauty is not fully independent from social conventions, but the song can still be positively evaluated for presenting a new form of possibility.
 
 <img src="./kim-junho.png" alt="Image that desbribes Woo Woung-woo's Autism and love" style="width:25%;" />
 
@@ -28,6 +41,14 @@ When I die, I hope [John Lennon’s Imagine](https://www.youtube.com/watch?v=Ykg
 
 [드라마에서 가장 인상 깊은 장면](https://www.youtube.com/watch?v=LPZDKf29IRs&list=RDLPZDKf29IRs&start_radio=1)에서, 우리는 우영우의 '상상'과 '사랑'이 어떻게 결부되어 있는지를 이해할 수 있다.
 
-해당 작품을 수업의 내용과 연결해보겠다. 우선, <상상>은 1주차 수업에서 이야기한 '장애미학'을 잘 나타낸다고 할 수 있다. '조현병에 따른 사고'는 때로 '이상하다는' 편견에 마주한다. 하지만, <상상>에서는 '조현병에 따른 사고'를 사랑스러운 '상상'으로 표현함으로써, 장애에 따른 '다름'이 아름다울 수 있음을 알린다. 또한 10주차 수업의 내용에 근거하자면, <상상>은 '사랑'을 강조함으로써 우영우의 장애는 관계론적으로 달리 읽힐 수 있음을 시사한다. 즉, 우영우은 사랑이라는 관계를 통해서 '정상과 비정상'의 구도에서 탈피할 수 있다는 것이다. 하지만 동시에 해당 곡은 비판적으로 읽을 수 있다. 2주차의 내용에서 알 수 있듯이, <상상> 속 우영우의 '상상'은 과도히 '낭만화'된 경향이 있다. 실제 우영우가 극 중 겪는 '고통'과 '슬픔'을 '고래를 떠오르는 것'과 같이 과도히 낭만화된 상상으로 덮는 경향이 있다는 것이다.
+해당 작품을 수업의 내용과 연결해보겠다. 우선, <상상>은 1주차 수업에서 이야기한 '장애미학'을 잘 나타낸다고 할 수 있다. '자폐 스펙트럼 장애에 따른 사고'는 때로 '이상하다는' 편견에 마주한다. 하지만, <상상>에서는 '자폐 스펙트럼 장애에 따른 사고'를 사랑스러운 '상상'으로 표현함으로써, 장애에 따른 '다름'이 아름다울 수 있음을 알린다. 또한 10주차 수업의 내용에 근거하자면, <상상>은 '사랑'을 강조함으로써 우영우의 장애는 관계론적으로 달리 읽힐 수 있음을 시사한다. 즉, 우영우은 사랑이라는 관계를 통해서 '정상과 비정상'의 구도에서 탈피할 수 있다는 것이다. 하지만 동시에 해당 곡은 비판적으로 읽을 수 있다. 2주차의 내용에서 알 수 있듯이, <상상> 속 우영우의 '상상'은 과도히 '낭만화'된 경향이 있다. 실제 우영우가 극 중 겪는 '고통'과 '슬픔'을 '고래를 떠오르는 것'과 같이 과도히 낭만화된 상상으로 덮는 경향이 있다는 것이다.
+
+# 내 장례식에서 나올 음악
 
 내가 죽은 뒤 장례식에는 [존 레논의 Imagine](https://www.youtube.com/watch?v=YkgkThdzX-8&list=RDYkgkThdzX-8&start_radio=1)이 나왔으면 좋겠다. 사람은 보통 평생을 '현실'이라는 무게를 견디며 살았고, 이에 따라 '상상'은 '망상'과 같은 취급을 받게 된다. 하지만, '상상'은 '망상'과 달리 현실을 견인하는 힘을 가진다. 힘겨운 삶을 더 나은 방향으로 나아가게끔 하는 그런 힘을 갖는다. 내가 죽게 된다면, 역설적으로 '상상'이 가지는 생명력을 사람들에게 들려주고 싶다. 
+
+# 추가 생각들
+
+나의 포트폴리오 질문은 다음과 같다. "음악은 진정히 ‘통념’과 독립적이라고 할 수 있을까? 만약 음악의 ‘미/추’가 권력의 영향을 받는다면, 음악은 사회 속 ‘정상과 비정상의 위계’를 어떻게 해체할 수 있을까?" 이는 앞서 언급한 노래 <상상>과 연결해서 생각해볼 수 있다. 우리는 흔히 <상상>이 통념을 해체한다고 생각하지만, 비판적으로 보자면 그렇지만은 않다. <상상>에서 이야기하는 '장애의 아름다움'은 '현악기를 이용한 높은 선율'로 표현됨으로써 다소 '정형화'되었다고 할 수 있다. 즉, 기존의 '아름다움'의 개념에 '우영우의 장애'라는 속성을 대입하는 '보편화' 과정이라고도 해석할 수 있다. 우영우의 장애는 분명 '불안'과 '고통'을 수반한다. 하지만, 이 모든 감정이 '높은 선율의 아름다움'으로 수렴되는 양상은 우영우의 장애를 진정히 대변하고 표현했다고 보기는 어렵다. 따라서, 우리는 <상상>이 권력과 통념의 '미/추'와 온전히 독립적이지 못하다는 결론을 내릴 수 있다. 
+
+하지만 동시에, <상상>은 새로운 가능성을 보여준다. 우리는 흔히 '장애와 비장애'를 '비정상과 정상'의 구도로, 더 나아가 '추함과 아름다움', '열등과 열우월'의 구도로 이해한다. 전술했듯, <상상>은 앞선 통념적, 이분법적 구도에서 탈피하지는 못했지만, 동시에 그 구도를 '비판적으로 이용했다고'할 수 있다. 즉, '장애'를 '비정상/추함/열등'이 아닌 '아름다움'으로 표현했다는 점에서, 청자에게 다소 '어색한' 조합을 선사한다. 이러한 '어색함'으로부터 '정상과 비정상의 위계'는 해체될 수 있다고 생각한다. <상상>은 기존의 위계관계를 이용하긴 했지만, 동시에 그것을 '전복'시킴으로써 장애를 '아름다움'에 속하게끔했다. 물론 이러한 '이름다움'이 '통념'에서 독립적이지는 못하지만, 새로운 가능성을 보여줬다는 점에서 긍정적으로 평가할 수 있다.

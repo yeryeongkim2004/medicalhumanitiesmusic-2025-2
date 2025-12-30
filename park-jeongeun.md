@@ -15,11 +15,19 @@ The overall storyline shifts from negativity and sadness to overcoming and posit
 
 The structural arc of Rachmaninoff’s music—dark low registers and unstable harmonies → dramatic buildup → calm resolution—mirrors Szpilman’s psychological journey in The Pianist. The tense opening reflects his fear and PTSD-driven confusion, the intensifying dynamics echo his desperate struggle for survival, and the final, more stable harmonies parallel the moment he regains a sense of human dignity through the act of playing the piano.
 
+In Chopin’s Nocturnes, the repetitive arpeggios in the left hand symbolize a constantly wavering inner state. While maintaining harmonic stability, the continuously flowing accompaniment reveals a condition in which the foundations of life remain intact, yet emotional equilibrium is unsettled. In contrast, the cantabile melody in the right hand sustains clear phrasing and lyrical continuity above this instability, expressing the human dignity and sense of self that one strives to preserve even in the midst of suffering. Rather than standing in opposition, the two hands coexist, musically articulating the complex inner condition in which emotional turbulence and dignity exist simultaneously.
+
 Additionally, another film that deals with PTSD, similar to The Pianist, is Leave No Trace.
 
 The music I hope will be played at my funeral is [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=1OZDaRhHHyM&list=RD1OZDaRhHHyM&start_radio=1). The reason is that when I listen to it, it feels strangely sorrowful yet deeply moving. It’s also one of my all-time favorite pieces.
 
 In Week 10, we learned about the proper posture required for pianists. In The Pianist, the protagonist also places his hands on the keyboard in an attempt to prove that he is still a pianist. However, due to severe physical weakness, his fingers begin to tremble. The lecture discussed various correction tools and finger-strengthening devices used to support proper playing posture, and these topics reminded me of the protagonist’s condition. This also made me question whether tremors caused by psychological trauma could truly be resolved through physical tools alone. The key question in Week 12 was: “Can we hear a composer’s suffering and illness through their music?” This immediately brought the protagonist to mind. In the film, he sublimates his PTSD through the act of playing the piano. Watching this scene, viewers can sense the restoration of his humanity. Therefore, I began to think that we can indeed perceive the suffering and illness of composers through their music, and further understand the deeper meanings they attempt to convey—such as emotional transcendence. One of the major questions in Week 13 asks: “How can we justify the desire to ‘listen to’ an artist’s suffering? Is our fascination with late style truly about the art, or about the pain behind it?” Through my analysis of The Pianist, I believe that this desire can be justified. By witnessing the protagonist’s pain and the way he transforms it into music, we are able to experience a shared sense of human dignity. Moreover, I think that our interest in late style is rooted more in the art itself rather than in the suffering. When we watch The Pianist, what we anticipate is not his pain, but his overcoming of that pain through artistic expression. From these reflections, I arrived at my conclusion.
+
+Q1, Q3 (Universal Understanding and Similarity of Suffering): In the film The Pianist, the protagonist Szpilman experiences PTSD and extreme physical debilitation, but he sublimates this suffering into art through his performance of Chopin's Nocturne in C-sharp minor. German officer Hosenfeld, upon witnessing this performance, shows an empathetic response that ultimately saves Szpilman's life. This demonstrates that even a person who is not afflicted by the disease (Hosenfeld) can deeply feel the suffering of others expressed through music (Q1), and by empathizing with the emotional essence of that suffering, find an opportunity for the restoration of humanity.
+
+Q2 (Aestheticization and Consolation of Suffering): Szpilman is not 'clinically cured' of PTSD; rather, he recovers and overcomes it by regaining his human dignity through the artistic expression of playing the piano. This shows that music can transform suffering from mere pain into an aesthetic form that emphasizes 'the indomitable nature of the human spirit,' thereby providing ultimate consolation and hope.
+
+Contribution of The Pianist Analysis to the Future Question: Szpilman's performance case concretizes the team's understanding that when recording musical experiences in the DB, they must overcome the challenges of 'immateriality' and 'difficulty in expressing suffering.' Key Elements of Recording: What is important in The Pianist is not only the score information but also the performer's condition (debilitation, PTSD, tremors) and the listening context (war, moment of survival, salvation). This case supports the argument that when designing the DB, the structure should focus on what kind of emotion the music evokes and the effects the music has after listening, in addition to the information about the piece itself.
 
 <img src="./park-jeongeun.png" alt="Abstract image of PTSD" style="width:35%;" />
 
@@ -32,8 +40,18 @@ In Week 10, we learned about the proper posture required for pianists. In The Pi
 
 라흐마니노프 음악의 무거운 저음·불안한 화성 → 급격한 고조 → 안정된 흐름이라는 구조는 The Pianist 속 슈필만의 심리와 자연스럽게 맞물립니다. 초반의 불안정한 선율은 그의 공포와 PTSD의 혼란을 반영하고, 점차 고조되는 다이내믹은 생존을 위한 극도의 긴장을 드러냅니다. 마지막의 안정된 화성은 피아노 연주를 통해 인간적 존엄을 회복하는 순간과 대응하며, 그의 감정 회복 과정을 음악적으로 보여줍니다.
 
+쇼팽의 녹턴에서 왼손의 반복적인 아르페지오는 끊임없이 흔들리는 내면의 심경을 상징한다. 안정된 화성을 유지하면서도 쉬지 않고 흐르는 반주는, 삶의 기반은 유지되지만 감정은 안정되지 못한 상태를 드러낸다. 반면 오른손의 칸타빌레 멜로디는 이러한 불안 위에서도 명확한 호흡과 선율을 유지하며, 고통 속에서도 잃지 않으려는 인간의 존엄성과 자아의식을 표현한다. 두 손은 대립하지 않고 공존하며, 이는 흔들림과 품위가 동시에 존재하는 인간의 복합적인 내면을 음악적으로 드러낸다.
+
 추가적으로 피아니스와 같이 PTSD를 다룬 영화의 예로는 Leave No Trace가 있습니다.
 
 저의 장례식에서 연주되길 희망하는 음악은 [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=1OZDaRhHHyM&list=RD1OZDaRhHHyM&start_radio=1)입니다. 그 이유는 들었을 때 묘하게 슬프면서도 마음에 울림을 주기 때문입니다. 제가 정말 좋아하는 음악이기도 하기 때문입니다. 
 
 수업과 관련된 내용으로는 10주차에 피아니스트의 올바른 자세에 대한 내용이 나옵니다. 영화의 주인공 또한 피아니스트로서 자신이 피아니스트를 증명하기 위해 건반에 손을 올립니다. 그러나 쇠약함으로 인해 손가락이 경련을 일으킵니다. 강의 내용에서는 올바른 자세를 위한 교정 도구, 손가락 강화 도구가 언급되는 데 그를 통해 영화 주인공이 떠올랐습니다. 과연 주인공의 정신적인 문제로 동반되는 경련이 물리적인 도구로 해결될지에 대한 의문이 생기기도 했습니다. 12주차의 핵심은 우리가 작곡가의 고통과 질병을 음악을 통해 들을 수 있는가?입니다. 저는 이를 통해 주인공이 떠올랐습니다. 주인공은 PTSD를 피아노(음악) 통해 승화합니다. 이 장면을 보고 시청자들은 그의 인간성의 회복을 느낄 수 있습니다. 따라서 우리는 작곡가의 고통과 질병을 음악을 통해 느끼고, 나아가 작곡가가 전달하는 의미(승화 등) 이해할 수 있을 것이라는 생각이 들었습니다. 13주차의 질문 중 하나를 보면 우리는 예술가의 고통을 ‘듣고 싶어 하는’ 욕망을 어떻게 정당화할 수 있는가? 말년 양식에 대한 관심은 예술에 대한 것인가, 고통에 대한 것인가?에 대한 것이 있습니다. 저는 더 피아니스트를 분석하며 고통을 듣고 싶어 하는 욕망을 정당화할 수 있다고 생각합니다. 우리는 그 고통을 보며 음악으로 승화하는 것을 통해 인간의 존엄을 다 같이 느낄 수 있습니다. 또한 말년 양식에 대한 관심은 고통보다는 예술에 대한 것인 것 같습니다. 우리가 더 피아니스트를 볼 때 기대하는 것은 피아니스트의 고통이 아닌 예술을 통한 고통의 극복입니다. 그러므로 저는 이로부터 결론을 도출해 보았습니다.
+
+Q1, Q3 (고통의 보편적 이해 및 유사성): 영화 피아니스트에서 주인공 슈필만은 PTSD와 극한의 신체적 쇠약을 겪지만, 쇼팽의 <녹턴 올림다단조> 연주를 통해 그 고통을 예술로 승화합니다. 이 연주를 본 독일군 장교 호젠펠트는 슈필만의 생명을 구하는 공감적 반응을 보입니다. 즉, 비록 질병에 걸리지 않은 사람(호젠펠트)이라도 음악을 통해 표현된 타인의 고통을 깊이 느끼고(Q1), 그 고통의 감정적 본질에 공감하여 인간성을 회복하는 계기를 마련할 수 있습니다.
+
+Q2 (고통의 미학화 및 위로): 슈필만은 PTSD에 대해 임상적으로 치료받은 것이 아니라, 피아노 연주라는 예술적 표현을 통해 인간적 존엄성을 되찾고 극복합니다. 이는 음악이 고통을 단순한 괴로움이 아닌 인간 정신의 불굴의 힘을 강조하는 미학적 형태로 변형시키고, 이를 통해 궁극적인 위로와 희망을 줄 수 있음을 보여줍니다.
+
+피아니스트 분석의 Future Question 기여:
+슈필만의 연주 사례는 음악적 경험을 DB에 기록할 때 비물질성과 고통 표현의 어려움을 극복해야 한다는 팀의 배경 인식을 구체화합니다.
+기록의 핵심 요소: 피아니스트에서 중요한 것은 악보 정보뿐만 아니라, 연주자의 상태 (쇠약함, PTSD, 경련)와 청취 맥락 (전쟁, 생존의 순간, 구원)입니다. DB 설계 시, 곡 자체의 정보 외에 음악이 어떤 감정인지, 음악 감상 후 미치는 영향을 중심으로 구조를 설계해야 한다는 내용을 이 사례가 뒷받침합니다.

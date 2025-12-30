@@ -14,6 +14,8 @@ In this work, the music’s depiction of disability aligns closely with concepts
 
 This work shares similarities with [Marathon](ji-dain2.md) in its warm portrayal of a person with autism spectrum disorder who learns to connect with the world. Both works avoid depicting autism as a story of “overcoming,” instead focusing on each character’s sincere journey toward understanding and communication in their own way. While 'Extraordinary Attorney Woo' expresses courage and communication through music, 'Marathon' conveys freedom and understanding. In both, music serves as an emotional bridge that links the characters’ inner worlds with the outer world.
 
+Seen in relation to my HYQ Portfolio, the OST of Extraordinary Attorney Woo serves as an important example of how human-created music can sensitively convey differences in sensory experience. However, as discussed in my Future Question, this also leads to further reflection on what might happen if AI technologies were to interpret and represent such experiences instead. In particular, there is a risk that AI could simplify the experience of autism spectrum disorder by emphasizing certain emotions or narratives based on socially constructed norms of normalcy. This highlights the need for ethical standards that ensure sensory differences are represented with care, context, and respect, rather than being reduced to data or generalized patterns.
+
 <img src="./cheong-yunho.png" alt="Abstract image of Autism Spectrum Disorder" style="width:30%;" />
 
 # The Music I Hope To Be Played At My Funeral
@@ -30,6 +32,8 @@ Lines like “You are a dancing tree, and the rough music inside is me” expres
 이 작품에서 음악이 장애를 묘사하는 방식은 수업에서 배운 내용과도 자연스럽게 연결된다. 2주차 ‘정상성과 규범성’ 강의에서 배운 것처럼, 장애는 결핍이 아니라 사회가 규정한 정상성 바깥에 존재하는 또 다른 감각적 질서로 이해된다. 우영우의 세계를 담은 OST Brave의 절제된 리듬과 반복적 구조는 그녀가 가진 독특한 감각 방식을 과장 없이 담아내며, 이는 5주차 수업에서 다룬 “음악이 말로 표현되지 않는 고통·불안·내면의 감정들을 비언어적으로 전하는 방식”과도 맞닿는다. 또한 12주차 ‘질병과 음악에는 서사가 있다’에서 다룬 것처럼, 음악은 단순한 배경이 아니라 인물의 경험을 하나의 서사적 흐름으로 구성하는 역할을 한다. Brave는 우영우의 두려움·용기·성장을 관객이 ‘듣는’ 서사로 바꾸어 주며, 이를 통해 우리는 장애를 극복의 서사가 아니라 감각의 차이를 이해하는 경험으로 다시 바라보게 된다.
 
 이 작품은 자폐 스펙트럼 장애를 가진 인물이 세상과 소통하며 성장하는 과정을 따뜻하게 그려낸다는 점에서 [말아톤](ji-dain2.md)과 닮아 있다. 두 작품 모두 자폐를 ‘극복의 서사’로 그리지 않고, 각 인물이 자신만의 방식으로 세상과 연결되는 과정을 진심 어린 시선으로 묘사한다. '이상한 변호사 우영우'는 용기와 소통을 음악으로 표현했지만, '말아톤'은 자유와 이해를 음악으로 풀어낸다. 두 작품 모두 음악이 인물의 내면과 외부 세계를 이어주는 정서적 다리로 기능한다는 공통점을 지닌다.
+
+HYQ Portfolio와 연관지어 살펴보면, 이상한 변호사 우영우의 OST는 인간이 만든 음악을 통해 감각의 차이를 섬세하게 전달한다는 점에서 중요한 사례가 된다. 그러나 HYQ Portfolio에서 제시한 Future Question처럼, 만약 이러한 감각 경험을 AI 기술이 대신 해석하고 재현하게 된다면 어떤 문제가 발생할 수 있을지 고민하게 된다. 특히 AI가 자폐 스펙트럼의 경험을 특정 감정이나 서사로 단순화하거나, 사회가 규정한 정상성을 기준으로 과장·왜곡할 가능성은 윤리적 기준의 필요성을 분명히 드러낸다.
 
 #  장례식에서 연주되길 희망하는 음악
 

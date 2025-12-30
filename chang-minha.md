@@ -16,6 +16,8 @@ When compared with the drama [Extraordinary Attorney Woo](kim-junho.md), both te
 
 This comparison also aligns with the core definition of medical humanities presented in the course. The slides emphasize that medical humanities do not view disease or disability merely as medical phenomena, but as a way of understanding human experience. Both works reinterpret disability and pain within their social meanings.
 
+This analysis also connects directly to the questions explored in my QBL portfolio. In particular, my Future Question—“How should we consider the power dynamics between a creator’s experience and an outsider’s interpretation?”—provides an important lens for understanding Me Before You. The Photograph scene may appear to the audience as a beautiful memory, yet this interpretation risks reshaping Will’s disability experience according to an outsider's emotional perspective. This tension echoes Q2 and Q3 from my project, which ask how we “listen” to pain and whose interpretation gains authority.
+
 
 
 <img src="./chang-minha.png" alt="Abstract image of paralysis" style="width:35%;" />
@@ -30,12 +32,18 @@ This comparison also aligns with the core definition of medical humanities prese
 
 이 비교는 수업 중 제시된 의료인문학의 핵심 정의와도 맞닿아 있다. 의료인문학은 질병이나 장애를 단순한 의학적 현상으로 보지 않고, 인간 경험을 이해하는 방식으로 해석한다고 제시된다. 두 작품 또한 장애나 고통을 사회적 의미 안에서 새롭게 읽어낸다는 공통점을 가진다.
 
+이번 작품 분석은 QBL 수업에서 탐구한 질문들과도 직접 이어진다. 특히 내가 설정한 Future Question, 즉 “작곡가의 경험과 외부자의 해석 사이의 권력 관계를 어떻게 고려할 것인가?”라는 문제는 Me Before You를 해석할 때도 중요한 시사점을 준다. Photograph 장면은 관객에게 아름다운 기억으로 받아들여지지만, 이는 윌의 장애 경험을 관객 중심의 감정으로 재구성할 위험을 지닌다. 이러한 차이는 Q2와 Q3에서 다룬 “우리는 고통을 어떻게 듣는가?”, “누구의 해석이 우위에 놓이는가?”라는 질문을 다시 떠올리게 한다.
+
 # Wawa
 
 The music I would like to be played at my funeral is [“Wawa”](https://youtu.be/6ga1olx5c_Q?si=MXuLTY6xcgfqobXo) by Ha Hyunsang. It’s the song I’ve been enjoying and loving the most lately. The lyrics also express a desire to hold on to a childlike innocence in one’s heart, even when time passes and life becomes exhausting—something that resonates deeply with my own thoughts. Instead of playing a sad song, I would prefer a bright and uplifting one so that everyone can remember their memories with me as something joyful.
 
 Here as well, we can connect to a perspective discussed in class. The slides directly mention the idea that “pain is sublimated into another dimension through music.” Choosing a bright song for a funeral is an example of the very process described in the slides—transforming pain into an aesthetic form. Moreover, one of the questions posed in Week 5 asks, “Does music express pain, or does it transform it?” Choosing Wawa for a funeral can be interpreted as an emotional act that reshapes and transforms sorrow.
 
+Likewise, choosing “Wawa” for my funeral reflects the course discussion on whether music expresses pain or transforms it, showing how emotional meaning is always negotiated between personal experience and external interpretation. In this way, the analysis serves as a practical example of applying my Future Question to an actual work.
+
 나의 장례식에서 연주되길 바라는 음악은 하현상의 ["Wawa"](https://youtu.be/6ga1olx5c_Q?si=MXuLTY6xcgfqobXo)이다. 최근 들어 가장 즐겨 듣고 좋아하는 곡이기 때문이다. 또한 노래의 내용도 시간이 지나 세상에 지치더라도 마음 속 한 켠에 아이같은 천진난만함을 간직하고 싶다는 내용인데 이는 평소 내가 가지고 있는 생각과 비슷하기 때문이다. 장례식이라고 슬픈 노래를 틀기 보다는 모두가 나와의 추억을 즐거운 기억으로 회상할 수 있도록 밝은 분위기의 노래를 틀고 싶다. 
 
 여기서도 수업에서 다룬 관점이 연결된다. “고통은 음악을 통해 다른 차원으로 승화된다”는 점인데, 장례식에서 밝은 노래를 선택하는 행위는 바로  “고통을 미학적 형식으로 바꾸는 과정”의 한 사례라고도 볼 수 있다. 더 나아가 Week 5의 질문 중에는 “음악은 고통을 표현하는가, 아니면 변형하는가?”라는 문제가 제시된다. <Wawa>를 장례식에 틀겠다는 선택은 슬픔을 변형하고 새롭게 조형해내는 감정의 방식이라고도 해석될 수 있다.
+
+또한 「Wawa」를 장례식 음악으로 선택한 이유 역시 ‘고통을 음악이 표현하는가, 혹은 변형하는가’라는 수업의 논의와 연결되며, 감정의 해석이 항상 외부자의 시선과 당사자의 경험 사이에서 조율되어야 함을 보여준다. 이런 점에서 이번 분석은 내가 포트폴리오에서 제기한 Future Question을 실제 작품에 적용해 본 사례라고 할 수 있다.

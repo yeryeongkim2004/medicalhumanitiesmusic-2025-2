@@ -34,3 +34,14 @@ I want to play Queen's ['Don't Stop Me Now'](https://youtu.be/HgzGwKwLmgM?si=Sbt
 # Don't Stop Me Now - Queen
 
 나는 나의 장례식에서 퀸(Queen)의 ['Don’t Stop Me Now'](https://youtu.be/HgzGwKwLmgM?si=SbtJeaamEcYOd4_a)를 틀고 싶다. 이 곡은 단순히 신나는 록 넘버가 아니라, 질병과 음악의 서사를 대표적으로 보여주는 사례이기도 하다. 프레디 머큐리는 HIV를 앓으면서도 무대 위에서 삶의 생동감과 존재의 자유를 음악으로 표현했고, 그의 노래는 개인의 고통을 숨기지 않으면서도 그것을 예술적 에너지로 승화시키는 힘을 보여준다. 이는 5주차 논의의 중심이었던 “고통은 음악으로 표현될 수 있는가”라는 질문에 대한 답을 제공한다. 또한, 짧은 삶이라도 끝까지 불꽃처럼 살아낸 흔적은 음악이라는 예술을 통해 오래 지속된다는 사실을 상징한다. 내가 이 곡을 장례식에 선택한 이유는, 장례식이 슬픔만을 확인하는 자리가 아니라 함께 보낸 시간의 생동감을 기억하고 다시 살아갈 힘을 얻는 자리가 되기를 바라기 때문이다. 남은 사람들은 상실감보다는 즐거웠던 기억을 떠올리며 내 장례식에 참석해주었으면 한다.
+
+
+
+# On expanding musical imagination and empathy
+
+To my future question, "Is it possible to understand and express the pain of others without experiencing it?", La Traviata and Don't Stop Me Now offer positive answers in terms of "representation" and "acceptance," respectively. Verdi, a male composer, sought to understand the tuberculosis and social alienation of women, something he had not experienced himself. He expressed Violetta's labored breathing and declining body through specific musical techniques, such as broken phrasing and the timbre of the oboe. This demonstrates that artistic imagination and technique can meticulously simulate the pain of others and sensuously convey it to those who have not experienced it (the audience and the composer himself). Conversely, the use of Freddie Mercury's music, sublimated through his suffering, at his funeral demonstrates that the art left behind by the sufferer can transcend mere sorrow and be transmitted to others as "life energy." In other words, we can see that music opens up the possibility of true empathy that transcends the limits of experience by allowing us to reconstruct the pain of others through our own senses, as in Verdi's case, and by connecting the pain of others with our own healing and hope, as in Queen's case.
+
+
+# 음악적 상상력과 공감의 확장에 대하여
+
+'경험하지 않은 타인의 고통을 이해하고 표현하는 것이 가능한가'라는 질문에 대해, <라 트라비아타>와 <Don't Stop Me Now>는 각각 '재현'과 '수용'의 측면에서 긍정적인 해답을 제시합니다. 남성 작곡가인 베르디는 자신이 겪지 않은 여성의 결핵과 사회적 소외를 이해하기 위해, 비올레타의 가쁜 호흡과 쇠약해가는 육체를 끊어지는 프레이징과 오보에의 음색 등 구체적인 음악적 기법으로 표현했다. 이는 예술적 상상력과 기법이 타인의 고통을 정교하게 시뮬레이션하여 비경험자(청중과 작곡가 자신)에게 그 통증을 감각적으로 전달할 수 있음을 증명한다. 반면, 프레디 머큐리의 고통이 승화된 음악을 장례식에서 사용하고자 하는 것은 고통의 당사자가 남긴 예술이 타인에게 단순한 슬픔을 넘어선 '삶의 에너지'로 전이될 수 있음을 보여준다. 즉, 음악은 베르디의 사례처럼 타인의 고통을 나의 감각으로 재구성하게 하고, 퀸의 사례처럼 타인의 아픔을 나의 치유와 희망으로 연결함으로써, 경험의 한계를 넘어선 진정한 공감의 가능성을 열어준다는 사실을 알 수 있다.

@@ -14,7 +14,6 @@ In CODA(2021), directed by Sian Heder, it deal with hearing loss. Except for Rub
 
 I would like IU’s [“Through the Night”](https://www.youtube.com/watch?v=BzYnNdJhZQw&list=RDBzYnNdJhZQw&start_radio=1) to be played at my funeral. Her gentle vocal tone creates a calm, tranquil atmosphere. The lyrics describe someone who is far away or out of reach, conveying feelings of longing and a quiet message of care. Rather than evoking an overwhelming sadness, the song offers a soft sense of comfort, which is why I want it as the music for my funeral.
 
-
 <img src="./byeon-hyejung.png" alt="abstract image of hearing loss" style="width: 25%;" />
 
 # 코다(CODA)
@@ -24,3 +23,11 @@ I would like IU’s [“Through the Night”](https://www.youtube.com/watch?v=Bz
 청각장애를 다루는 또 다른 음악으로는 [베토벤의 피아노 소나타 ‘월광’](choi-myeonghyeon.md)이 있다. 베토벤이 어렸을 때는 정상적인 청력을 가졌었다. 이 곡에서 점점 청력을 잃어가는 과정 속의 고통과 감정을 표현하고 있다. 특히 1악장의 낮고 잔잔한 아르페지오는 소리를 잃어가며 느꼈을 침잠하는 불안과 고독을 떠올리게 하고, 음이 길게 지속되는 부분에서는 마치 멀어져 가는 세계를 붙잡으려는 듯한 절절함이 드러난다. 두 작품 모두 청각의 상실을 다루지만, '코다'는 가족 안에서의 관계와 소통의 문제를 중심으로 하고, ‘월광’은 청력을 잃어가는 작곡가 개인의 내면적 고독과 절망을 음악적으로 형상화한다는 점에서 차이가 있다. 영화 ‘코다’에서는 가족 중 유일하게 청각장애를 가지고 있지 않은 루비를 중심으로 이야기를 풀어나가서 청각장애인의 마음을 직접적으로 느끼긴 힘들었을수도 있다. 하지만 베토벤의 ‘월광’을 들어보면 서서히 청력을 잃어가는 청각장애인의 마음을 조금이나마 느낄 수 있을 것이다. 이것은 5주차 수업 시간에 배웠던 '음악으로 승화된 고통'과 연결 지을 수 있다. 베토벤이 월광을 작곡하면서, 청각장애는 더 이상 단순한 고통이 아니라 정복된 것으로 볼 수있다.  그리고 12주차 수업에서 배웠던 내용을 적용하면, 베토벤이 청각장애로 고통 받는 중에 '월광'을 작곡했다는 사실을 알고 들었을 때와 모르고 들었을 때의 느낌이 다를 것이다. 
 
 장례식에서 [아이유의 밤편지](https://www.youtube.com/watch?v=BzYnNdJhZQw&list=RDBzYnNdJhZQw&start_radio=1)가 연주되길 원한다. 아이유의 부드러운 보컬 톤 때문에 전체적으로 차분하고 고요한 느낌을 준다. 가사를 보면 누군가 멀리 있거나 닿지 않는 곳에 있다는 설정 속에서 그리움, 안부를 전하는 내용이다. 아프게 울리는 슬픔보다 조용한 위로 느낌에 가까워서 장례식 음악으로 선택하고 싶다. 
+
+# Connection to HYQ portfolio
+
+In response to Q1, both works present hearing loss not merely as a disease itself, but as something that is understood through how each character experiences and lives with it. In CODA, the Ruby family’s hearing loss is portrayed not as a deficiency, but as a condition that allows them to experience the world in alternative ways—through vibration, facial expressions, and bodily sensations. In Moonlight Sonata, hearing loss is not reduced to measurable symptoms or clinical data; rather, it is artistically transformed into music that expresses inner anxiety, solitude, and resistance. Both works reveal illness narrative through artistic forms. This perspective can also be connected to Q2, which distinguishes between disease and illness. From a disease-centered viewpoint, CODA simply depicts “hearing impairment.” However, from an illness-centered perspective, it encompasses the family’s livelihood structure, the role imposed on Ruby as a mediator, and the unique modes of communication formed within a world of non-hearing. Similarly, in Moonlight Sonata, the disease perspective would define Beethoven’s condition as “progressive hearing loss.” Yet the illness perspective reveals the composer’s fear as a creator, his sense of disconnection from the world, and his attempt to reconstruct suffering through music.
+
+# HYQ 포트폴리오와의 연결 
+
+두 작품에서 Q1에 대한 답변을 해보자면 두 작품 모두 청각장애를 disease 자체가 아니라 '각 인물이 어떻게 경험하는가'를 알려주고 있다. 코다에서는 루비가족의 청각장애는 결핍이 아니라 진동, 표정, 몸의 감각을 통해 다른 방식으로 세계를 경험할 수 있게 해주었다. 월광에서는 청력 상실이 수치나 증상이 아니라 내면의 불안, 고독, 저항을 나타내는 음악으로 형상화 되었다. 두 작품 모두 환자의 이야기를 예술적 방식으로 드러내었다. 이것은 Q2와도 연관을 지을 수 있게 되는데 코다에서 disease 관점으로 본다면 '청각장애'가 될 것이고 illness 관점으로는 '가족의 생계구조', '루비의 역할 강요', '듣지 못함 속에서 형성된 독자적 소통 방식'으로 볼 수 있겠다. 월광에서도 마찬가지로 disease 관점으로는 '점진적 난청'일 것이다. 하지만 illness 관점에서는 '창작자로서의 공포', '세계와 단절되는 감각', '음악을 통해 고통을 재구성하려는 시도' 등으로 볼 수 있겠다. 
